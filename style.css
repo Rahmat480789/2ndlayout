@@ -1,0 +1,140 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+header{
+    height: 60px;
+    width: 100%;
+    display: flex;
+}
+.asma{
+    height: 60px;
+    width: 20%;
+    background-color: chartreuse;
+    color: darkgoldenrod;
+    text-align: center;
+}
+.rahmat{
+    height: 60px;
+    width: 80%;
+    background-color: brown;
+    color: darkgoldenrod;
+    text-align: center;
+}
+.ajwoja{
+    display: flex;
+    height: 700px;
+    background-color: cornflowerblue;
+    width: 100%;
+}
+
+.asma_1{
+    height: 700px;
+    font-size: 50px;
+    width: 100%;
+    color: rgb(28, 13, 236);
+    background-color: darkgoldenrod;
+    text-align: center;
+}
+.rahmat_1{
+    height: 700px;
+    font-size: 50px;
+    width: 100%;
+    color: aquamarine;
+    background-color: rgb(27, 216, 27);
+    text-align: center;
+}
+.ajwoja_1{
+    height: 700px;
+    font-size: 50px;
+    width:100%;
+    color: brown;
+    background-color: darkblue;
+    text-align: center
+    
+}
+.rahmat_2{
+    height: 233px;
+    width: 100%;
+    color: blueviolet;
+    background-color: darkred;
+    text-align: center;
+    font-size: 40px;
+}
+.rahmat_3{
+    height: 233px;
+    width: 100%;
+    color: white;
+    background-color: black;
+    font-size: 40px;
+    text-align: center;
+}
+.rahmat_4{
+    height: 233px;
+    width: 100%;
+    color: red;
+    background-color: green;
+    font-size: 40px;
+    text-align: center;
+}
+.asma_2{
+    height: 350px;
+    width: 100%;
+    color: blueviolet;
+    background-color: pink;
+    font-size: 40px;
+    text-align: center;
+}
+.asma_3{
+    height: 350px;
+    width: 100%;
+    color: green;
+    background-color: yellow;
+    font-size: 40px;
+    text-align: center;
+}
+.ajwoja_2{
+    height: 350px;
+    width: 100%;
+    color: green;
+    background-color: burlywood;
+    font-size: 40px;
+    text-align: center;
+}
+.ajwoja_3{
+    height: 350px;
+    width: 100%;
+    color: black;
+    background-color: royalblue;
+    font-size: 40px;
+    text-align: center;
+}
+footer{
+    height: 50px;
+    width: 100%;
+    display: flex;
+}
+.tareq_1{
+    height: 50px;
+    width: 50%;
+    color: white;
+    background-color: brown;
+    font-size: 30px;
+    text-align: center;
+}
+.tareq_2{
+    height: 50px;
+    width: 50%;
+    color: black;
+    background-color: deeppink;
+    font-size: 30px;
+    text-align: center;
+}
+.abir{
+    height: 700px;
+    font-size: 50px;
+    width: 100%;
+    color: rgb(28, 13, 236);
+    background-color: darkgoldenrod;
+    text-align: center;
+}
